@@ -1,3 +1,15 @@
+title: My study journal
+description: Site to document my study progress and notes.
+baseurl: "" 
+url: "https://Harish-Projects.github.io"
+
+remote_theme: mmistakes/minimal-mistakes
+
 plugins:
   - jekyll-include-cache
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+
+
+google_analytics: G-D68ZMJGFKY
+
+markdown: kramdown
+highlighter: rouge
