@@ -3,7 +3,7 @@ description: Site to document my study progress and notes.
 baseurl: "" 
 url: "https://Harish-Projects.github.io"
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
   - jekyll-include-cache
