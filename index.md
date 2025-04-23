@@ -4,7 +4,7 @@ title: "Welcome"
 ---
 
 <div class="header-overlay-image">
-  <img src="/assets/images/Header.jfif" alt="header" />
+  <img src="/assets/images/header_bicycle.jfif" alt="-" />
 </div>
 
 <div class="section" id="welcome">
@@ -21,27 +21,6 @@ title: "Welcome"
   </div>
 </div>
 
-<div class="section" id="projects">
-  <div class="section-content">
-    <h2>Projects</h2>
-    <p>In the coming days, I will try to publish some projects I did in my free time here:</p>
-    <ul>
-        <li>
-        <a href="#">Project 1: Project Name 1</a> - *A brief description of the project.*
-        </li>
-    </ul>
-  </div>
-</div>
-
-<div class="section" id="blogs">
-  <div class="section-content">
-    <h2>Study Journal</h2>
-    <p>This will provide as my notes, so that anyone interested or I could refer to later.</p>
-    <ul>
-        <li><a href="#">Blog Post Title 1</a> - *A short description of the blog post.*</li>
-    </ul>
-  </div>
-</div>
 
 <div class="section" id="contact">
   <div class="section-content">
