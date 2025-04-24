@@ -1,5 +1,7 @@
 main:
-  - title: "projects"
-    url: /projects/
-  - title: "blogs"
-    url: /blogs/ 
+  - title: "About me"
+    section: "#about"
+  - title: "Projects"
+    section: "#projects"
+  - title: "Blogs"
+    section: "#blogs"
