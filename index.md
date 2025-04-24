@@ -1,9 +1,10 @@
 ---
 layout: splash
-title: "Welcome"
+title: "Welcome!"
 header:
+  overlay_color: "#000"
   overlay_filter: 0.6
-  overlay_image: /assets/images/header_bicycle.jpg
+  overlay_image: /assets/images/header_bicycle.jfif
   actions:
     - label: "Contact Me"
       section: contact
