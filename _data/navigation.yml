@@ -1,7 +1,8 @@
 main:
   - title: "About me"
-    section: "#about"
+    url: "#about"
   - title: "Projects"
-    section: "#projects"
+    url: "#projects"
   - title: "Blogs"
-    section: "#blogs"
+    url: "#blogs"
+    
