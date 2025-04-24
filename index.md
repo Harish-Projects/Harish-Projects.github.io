@@ -31,6 +31,17 @@ excerpt: "This is my personal website where I share my projects, blogs, and cont
     <h2>Projects</h2>
     <p>In the coming days, I will try to publish some projects I did in my free time here:</p>
      {% include feature_row %}
+    <div class="feature-row">
+      <div class="feature-item">
+        <h3>Project Title 1</h3>
+        <p>A short description of the project.</p>
+        <a href="#">View Project</a>
+      </div>
+      <div class="feature-item">
+        <h3>Project Title 2</h3>
+        <p>A short description of the project.</p>
+        <a href="#">View Project</a>
+      </div>
   </div>
 </div>
 
